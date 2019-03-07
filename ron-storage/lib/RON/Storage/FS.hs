@@ -7,7 +7,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 {-# LANGUAGE TypeApplications #-}
 
--- | A real-world file storage.
+-- | A file storage.
 --
 -- Typical usage:
 --
